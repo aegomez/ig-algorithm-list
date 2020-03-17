@@ -13,6 +13,7 @@ This is mostly just a backup for personal use.
 3. Image Editing
 4. Equal Circle Segments
 5. Minimum Sum
+6. Coloring the Blocks
 
 ## Author
 
