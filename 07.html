@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0"
+        />
+        <title>Enhanced Flexible Grid</title>
+        <style>
+            .grid {
+                display: flex;
+                flex-flow: row nowrap;
+                border: 1px solid black;
+            }
+            .column {
+                flex: none;
+                width: 25%;
+                display: flex;
+                flex-flow: row wrap;
+            }
+            .cell {
+                border: 1px solid black;
+                box-sizing: border-box;
+                width: 25%;
+            }
+            @media (max-width: 720px) {
+                .cell {
+                    width: 50%;
+                }
+            }
+            @media (max-width: 360px) {
+                .cell {
+                    width: 100%;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="grid">
+            <div class="column">
+                <div class="cell">00</div>
+                <div class="cell">01</div>
+                <div class="cell">02</div>
+                <div class="cell">03</div>
+            </div>
+            <div class="column">
+                <div class="cell">10</div>
+                <div class="cell">11</div>
+                <div class="cell">12</div>
+                <div class="cell">13</div>
+            </div>
+            <div class="column">
+                <div class="cell">20</div>
+                <div class="cell">21</div>
+                <div class="cell">22</div>
+                <div class="cell">23</div>
+            </div>
+            <div class="column">
+                <div class="cell">30</div>
+                <div class="cell">31</div>
+                <div class="cell">32</div>
+                <div class="cell">33</div>
+            </div>
+        </div>
+    </body>
+</html>

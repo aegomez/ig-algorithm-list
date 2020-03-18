@@ -14,6 +14,8 @@ This is mostly just a backup for personal use.
 4. Equal Circle Segments
 5. Minimum Sum
 6. Coloring the Blocks
+7. Enhanced Flexible Grid
+8. Circular Substring Competition
 
 ## Author
 
