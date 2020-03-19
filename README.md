@@ -16,6 +16,7 @@ This is mostly just a backup for personal use.
 6. Coloring the Blocks
 7. Enhanced Flexible Grid
 8. Circular Substring Competition
+9. Vowels
 
 ## Author
 
