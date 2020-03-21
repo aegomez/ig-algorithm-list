@@ -18,6 +18,7 @@ This is mostly just a backup for personal use.
 8. Circular Substring Competition
 9. Vowels
 10. IP Address Validation
+11. Maximum Occurring Character
 
 ## Author
 
