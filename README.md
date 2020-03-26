@@ -19,6 +19,7 @@ This is mostly just a backup for personal use.
 9. Vowels
 10. IP Address Validation
 11. Maximum Occurring Character
+12. Nearest Neighbor
 
 ## Author
 
