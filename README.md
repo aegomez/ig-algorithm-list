@@ -22,6 +22,8 @@ This is mostly just a backup for personal use.
 12. Nearest Neighbor
 13. Shopping Cart Billing
 14. The Social Network
+15. Final Discounted Price
+16. Segment
 
 ## Author
 
