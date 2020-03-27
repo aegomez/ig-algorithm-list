@@ -20,6 +20,8 @@ This is mostly just a backup for personal use.
 10. IP Address Validation
 11. Maximum Occurring Character
 12. Nearest Neighbor
+13. Shopping Cart Billing
+14. The Social Network
 
 ## Author
 
