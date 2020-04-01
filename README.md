@@ -29,6 +29,8 @@ This is mostly just a backup for personal use.
 19. University Career Fair
 20. Prefix To Postfix
 21. Turnstile
+22. Threshold Alerts
+23. Degree of an Array
 
 ## Author
 
