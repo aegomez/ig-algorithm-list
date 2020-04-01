@@ -26,6 +26,8 @@ This is mostly just a backup for personal use.
 16. Segment
 17. Promise Area
 18. Is this a tree?
+19. University Career Fair
+20. Prefix To Postfix
 
 ## Author
 
