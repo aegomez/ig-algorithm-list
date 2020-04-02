@@ -31,6 +31,7 @@ This is mostly just a backup for personal use.
 21. Turnstile
 22. Threshold Alerts
 23. Degree of an Array
+24. Two Junctions
 
 ## Author
 
