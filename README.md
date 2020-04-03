@@ -32,6 +32,8 @@ This is mostly just a backup for personal use.
 22. Threshold Alerts
 23. Degree of an Array
 24. Two Junctions
+25. Smallest Set Covering Intervals
+26. Strokes to Paint
 
 ## Author
 
