@@ -35,6 +35,7 @@ This is mostly just a backup for personal use.
 25. Smallest Set Covering Intervals
 26. Strokes to Paint
 27. Racing Car
+28. Reaching Points
 
 ## Author
 
